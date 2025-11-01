@@ -1,0 +1,13 @@
+# Node / tooling
+node_modules/
+.env
+.clasp.json
+.clasp.cache/
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
